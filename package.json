@@ -1,0 +1,19 @@
+{
+  "name": "suarez-shaya",
+  "version": "1.0.0",
+  "description": "Proyecto Backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shaya02/Proyecto-Backend.git"
+  },
+  "author": "Shaya Suarez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shaya02/Proyecto-Backend/issues"
+  },
+  "homepage": "https://github.com/Shaya02/Proyecto-Backend#readme"
+}
