@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Shaya02/Proyecto-Backend/issues"
   },
-  "homepage": "https://github.com/Shaya02/Proyecto-Backend#readme"
+  "homepage": "https://github.com/Shaya02/Proyecto-Backend#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
