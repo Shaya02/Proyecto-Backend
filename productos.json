@@ -1,26 +1,31 @@
 [
-    {
-        "id": 1 ,
-       "title" : "Lemon pie",
-       "price": 2000 ,
-       "imagen" : "https://d3ugyf2ht6aenh.cloudfront.net/stores/413/750/products/20200131_1726171-ecf9440be2d7a84e1016110088861117-1024-1024.jpg"
-    } ,
-    {
-         "id" : 2 ,
-        "title" : " Tarta Frutal " ,
-        "price" : 1500 ,
-         "imagen": "https://www.recetasderechupete.com/wp-content/uploads/2019/07/Tarta-de-crema-y-frutas.jpg"
-    } ,
-    {
-        "id" : 3 ,
-        "title" : " Torta personalizada " ,
-         "price" : 2500 , 
-        "imagen" : "https://cdn.shopify.com/s/files/1/0273/4702/6033/products/driprosadoHB_530x@2x.jpg?v=1591306806"
-    } ,
-    {
-         "id" : 4,
-        "title" : " Cookies " ,
-        "price" : 950,
-         "imagen": "https://joyfoodsunshine.com/wp-content/uploads/2018/02/best-chocolate-chip-cookies-recipe-1.jpg"
-    } 
-    ]
+ {
+  "id": 1,
+  "title": "Lemon pie",
+  "price": 2000,
+  "imagen": "https://d3ugyf2ht6aenh.cloudfront.net/stores/413/750/products/20200131_1726171-ecf9440be2d7a84e1016110088861117-1024-1024.jpg"
+ },
+ {
+  "id": 2,
+  "title": " Tarta Frutal ",
+  "price": 1500,
+  "imagen": "https://www.recetasderechupete.com/wp-content/uploads/2019/07/Tarta-de-crema-y-frutas.jpg"
+ },
+ {
+  "id": 3,
+  "title": " Torta personalizada ",
+  "price": 2500,
+  "imagen": "https://cdn.shopify.com/s/files/1/0273/4702/6033/products/driprosadoHB_530x@2x.jpg?v=1591306806"
+ },
+ {
+  "id": 4,
+  "title": " Cookies ",
+  "price": 950,
+  "imagen": "https://joyfoodsunshine.com/wp-content/uploads/2018/02/best-chocolate-chip-cookies-recipe-1.jpg"
+ },
+ {
+  "title": "Cookies",
+  "price": 950,
+  "id": 5
+ }
+]

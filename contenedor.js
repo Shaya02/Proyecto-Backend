@@ -96,7 +96,7 @@ class Container {
   }
 }
 
-const file = "productos.txt";
+const file = "productos.json";
 const contenedor = new Container(file);
 
 let newObject = {
