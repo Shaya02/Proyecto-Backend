@@ -1,4 +1,4 @@
-const express = require('express');
+/*const express = require('express');
 const app = express();
 const Container = require("./contenedor");
 const contenedor = new Container("./productos.json");
@@ -34,4 +34,18 @@ const server = app.listen(app.get("port"), () => {
 
 server.on("error", (error) => {
   console.log(`Error!: ${error}`);
+});*/
+
+const express = require("express");
+const app = express();
+const fs = require("fs");
+const productosRouter = require("./productos");
+app.use(express.urlencoded({ extended: true }));
+app.use(express.json());
+app.use("/", express.static(__dirname + "/assets"));
+
+app.use("/api/productos", productosRouter);
+
+app.listen(3000, () => {
+  console.log("Server ON");
 });
